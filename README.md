@@ -1,5 +1,5 @@
 # TER
-Travail TER de l'ISFA
+ISFA's TER work
 
 
-Vous trouverez l'architecture du TCN dans le fichier skip. Elle est dévelopée en Pytorch. Un notebook sur l'utilisation du réseau de neurones a été mis aussi, il explique comment utiliser le réseau entrainé. 
+You will find the TCN architecture in the skip file. It is developed in Pytorch. A notebook on the use of the neural network has been put too, it explains how to use the trained network.
