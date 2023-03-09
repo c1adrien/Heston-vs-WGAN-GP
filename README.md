@@ -1,5 +1,13 @@
-# TER
-ISFA's TER work
+# Comparison between the Heston model and the Wasserstein Generative Adversarial Network (WGAN) with gradient penalty.
 
 
-The purpose of the neural network notebook is not to give our complete code. We want to make the reader want to read what we have done, so we have simplified the codes to give a glimpse of what the theory can do in practice. The trained neural network is however given as a linked file. If you want to know more about it or run it, don't hesitate to contact us!  
+This work involves the use of a WGAN-GP to model financial stocks, followed by an explanation of its parametrization as well as the Heston Model. Our findings indicate that the WGAN outperforms the Heston Model in terms of kurtosis and skewness :
+
+![Alt Text](https://github.com/c1adrien/TER/blob/main/kurtosis.png)
+
+
+We also conduct a comparison of trajectory diffusion between the WGAN-GP and the Heston model.
+
+![Alt Text](https://github.com/c1adrien/TER/blob/main/financial_path.png)
+
+As a group, we decided not to release all of the code we produced for this project. However, we have provided some insights in different notebooks. Please feel free to contact us if you have any comments or questions!
